@@ -12,6 +12,8 @@ The core aim of this project is to uncover inherent structures and relationships
 The dataset is a treasure trove of information encompassing crucial economic and development metrics for countries worldwide. Variables include birth rate, business tax, CO2 emissions, days to start a business, ease of doing business, energy usage, GDP, health expenditure as a percentage of GDP, health expenditure per capita, hours to do tax, infant mortality, internet usage, lending rate, life expectancy (female), and more. This diverse set of variables offers a comprehensive view of the economic and developmental landscape.
 
 ## Acceptance Criterion:
+Work on different clustering models, do a comparative analysis and need to deploy the clustering application on streamlit, flask etc.
+
 
 ## Clustering Models Exploration:
 
