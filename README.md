@@ -65,13 +65,7 @@ git clone https://github.com/ShishupalRajpurohit/Cluster-Analyzer.git
 cd Cluster-Analyzer
 ```
 
-Install requirements:
-
-```bash
-pip install -r requirements.txt
-```
-
-Or manually install essentials:
+Manually install essentials:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn plotly streamlit
@@ -111,7 +105,7 @@ Cluster-Analyzer/
 
 **Shishupal Rajpurohit**  
 Biomedical Engineer | Data Science Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/shishupalrajpurohit)
+📫 [LinkedIn](https://www.linkedin.com/in/shishupal-rajpurohit-039290190/)
 
 ---
 
