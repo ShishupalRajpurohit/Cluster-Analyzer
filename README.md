@@ -82,7 +82,6 @@ jupyter notebook "Cluster Analysis.ipynb"
 ```
 Cluster-Analyzer/
 ├── Cluster Analysis.ipynb         # Main analysis notebook
-├── requirements.txt               # Required libraries (optional)
 ├── README.md                      # Project documentation
 └── (streamlit_app/)              # Coming soon: Interactive app
 ```
